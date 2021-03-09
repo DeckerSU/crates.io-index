@@ -1,0 +1,1 @@
+{"name":"siphasher","vers":"0.1.3","deps":[{"name":"clippy","req":"~0","features":[],"optional":true,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"833011ca526bd88f16778d32c699d325a9ad302fa06381cd66f7be63351d3f6d","features":{},"yanked":false}

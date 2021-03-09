@@ -1,0 +1,1 @@
+{"name":"radium","vers":"0.3.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"def50a86306165861203e7f84ecffbbdfdea79f0e51039b33de1e952358c47ac","features":{},"yanked":false}

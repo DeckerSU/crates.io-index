@@ -1,0 +1,1 @@
+{"name":"mocktopus","vers":"0.7.5","deps":[{"name":"mocktopus_macros","req":"= 0.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"6bb802d95931d1426546328523487423c2bd44e0fca457d4ac063ec3150a681f","features":{},"yanked":false}

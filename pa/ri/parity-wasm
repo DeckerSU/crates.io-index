@@ -1,0 +1,1 @@
+{"name":"parity-wasm","vers":"0.41.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"ddfc878dac00da22f8f61e7af3157988424567ab01d9920b962ef7dcbd7cd865","features":{"atomics":[],"bulk":[],"default":["std"],"sign_ext":[],"simd":[],"std":[]},"yanked":false}

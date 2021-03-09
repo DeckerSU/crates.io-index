@@ -1,0 +1,1 @@
+{"name":"asn1_der","vers":"0.6.3","deps":[{"name":"asn1_der_derive","req":"^0.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"6fce6b6a0ffdafebd82c87e79e3f40e8d2c523e5fea5566ff6b90509bf98d638","features":{"default":["derive"],"derive":["asn1_der_derive"]},"yanked":false}

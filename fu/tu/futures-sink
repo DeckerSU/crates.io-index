@@ -1,0 +1,1 @@
+{"name":"futures-sink","vers":"0.3.5","deps":[],"cksum":"3f2032893cb734c7a05d85ce0cc8b8c4075278e93b24b66f9de99d6eb0fa8acc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

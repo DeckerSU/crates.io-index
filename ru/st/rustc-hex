@@ -1,0 +1,2 @@
+{"name":"rustc-hex","vers":"1.0.0","deps":[],"cksum":"0ceb8ce7a5e520de349e1fa172baeba4a9e8d5ef06c47471863530bc4972ee1e","features":{},"yanked":false}
+{"name":"rustc-hex","vers":"2.1.0","deps":[],"cksum":"3e75f6a532d0fd9f7f13144f392b6ad56a32696bfcd9c78f797f16bbb6f072d6","features":{"default":["std"],"std":[]},"yanked":false}

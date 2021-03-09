@@ -1,0 +1,1 @@
+{"name":"sp-std","vers":"2.0.0","deps":[],"cksum":"fa2d6e166cead2d3b1d3d8fe0e787d076b7d0296b1760a0d7d340846d0ba42c5","features":{"default":["std"],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"data-encoding","vers":"2.2.1","deps":[],"cksum":"72aa14c04dfae8dd7d8a2b1cb7ca2152618cd01336dbfe704b8dcbf8d41dbd69","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

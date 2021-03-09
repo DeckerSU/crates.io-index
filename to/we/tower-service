@@ -1,0 +1,1 @@
+{"name":"tower-service","vers":"0.3.0","deps":[{"name":"http","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"e987b6bf443f4b5b3b6f38704195592cca41c5bb7aedd3c3693c7081f8289860","features":{},"yanked":false}

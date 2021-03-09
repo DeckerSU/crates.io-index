@@ -1,0 +1,1 @@
+{"name":"ethereum-types-serialize","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"1873d77b32bc1891a79dad925f2acbc318ee942b38b9110f9dbc5fbeffcea350","features":{},"yanked":false}

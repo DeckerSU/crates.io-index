@@ -1,0 +1,1 @@
+{"name":"pin-project","vers":"0.4.22","deps":[{"name":"pin-project-internal","req":"= 0.4.22","features":[],"optional":false,"default_features":false,"target":null,"kind":null,"package":null}],"cksum":"12e3a6cdbfe94a5e4572812a0201f8c0ed98c1c452c7b8563ce2276988ef9c17","features":{},"yanked":false}

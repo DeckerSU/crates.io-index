@@ -1,0 +1,1 @@
+{"name":"zeroize","vers":"1.1.0","deps":[{"name":"zeroize_derive","req":"^1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"3cbac2ed2ba24cc90f5e06485ac8c7c1e5449fe8911aef4d8877218af021a5b8","features":{"alloc":[],"default":["alloc"]},"yanked":false}

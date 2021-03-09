@@ -1,0 +1,1 @@
+{"name":"heck","vers":"0.3.1","deps":[{"name":"unicode-segmentation","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"20564e78d53d2bb135c343b3f47714a56af2061f1c928fdb541dc7b9fdd94205","features":{},"yanked":false}

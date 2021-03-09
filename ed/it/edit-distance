@@ -1,0 +1,1 @@
+{"name":"edit-distance","vers":"2.1.0","deps":[{"name":"quickcheck","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"bbbaaaf38131deb9ca518a274a45bfdb8771f139517b073b16c2d3d32ae5037b","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"unicode-segmentation","vers":"1.6.0","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"e83e153d1053cbb5a118eeff7fd5be06ed99153f00dbcd8ae310c5fb2b22edc0","features":{"no_std":[]},"yanked":false}

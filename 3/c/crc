@@ -1,0 +1,1 @@
+{"name":"crc","vers":"1.8.1","deps":[{"name":"build_const","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build","package":null}],"cksum":"d663548de7f5cca343f1e0a48d14dcfb0e9eb4e079ec58883b7251539fa10aeb","features":{"default":["std"],"std":[]},"yanked":false}

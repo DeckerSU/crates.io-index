@@ -1,0 +1,2 @@
+{"name":"subtle","vers":"1.0.0","deps":[],"cksum":"2d67a5a62ba6e01cb2192ff309324cb4875d0c451d55fe2319433abe7a05a8ee","features":{"default":["i128","std"],"i128":[],"nightly":[],"std":[]},"yanked":false}
+{"name":"subtle","vers":"2.2.3","deps":[],"cksum":"502d53007c02d7605a05df1c1a73ee436952781653da5d0bf57ad608f66932c1","features":{"default":["i128","std"],"i128":[],"nightly":[],"std":[]},"yanked":false}

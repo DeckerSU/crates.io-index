@@ -1,0 +1,1 @@
+{"name":"rdrand","vers":"0.4.0","deps":[{"name":"rand_core","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":null,"package":null}],"cksum":"678054eb77286b51581ba43620cc911abf02758c91f93f479767aed0f90458b2","features":{"default":["std"],"std":[]},"yanked":false}
